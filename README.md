@@ -111,4 +111,4 @@ The yum plugin changes a few things:
 TODO
 ----
 * Puppet still calls rpm very frequently for version info, we should be smarter
-  and avoid that.
+  and avoid that
